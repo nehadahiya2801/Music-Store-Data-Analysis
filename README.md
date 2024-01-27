@@ -1,5 +1,6 @@
 # Music-Store-Data-Analysis
 <br>
+<br>
 SQL project to analyze online music store data
 <br>
 <B>Business Problem:</B> Music Store wants to gather useful insights on their Top Artists and Genres for their subscribers through their datasets. The issue is, they are working with too much data and are unsure how to effectively analyze and extract meaningful insights from it. They need a robust and scalable data analytics solution to handle the vast amount of data and uncover valuable patterns and trends.
